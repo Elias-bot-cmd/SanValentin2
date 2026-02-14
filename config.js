@@ -13,7 +13,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['🌹', '❣️', '🤍', '💗', '💓'],  // Heart emojis
-        bears: ['🦦', '🐥']                       // Cute bear emojis
+        bears: ['❣️', '🌹']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -47,9 +47,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "JEJEJe, Soy la persona mas afortunada de tenerte 😈😈🤍🤍",
-        message: "No puedo darte un regalo precensial pero tu sabes que hago lo que puedo, espera a que llegue el otro jejeje🤍🤍 cafesito caramela, te empezare a decir mi caramelita.",
-        emojis: "🙊🤍❤️‍🔥"  // These will bounce around
+        title: "JEJEJe, Soy la persona mas afortunada de tenerte 🤍🤍🤍🤍",
+        message: "No puedo darte un regalo presencial pero tu sabes que hago lo que puedo, Aprendi esto como un demonio ojala te guste adfasdf",
+        emojis: "🤍🤍🤍"  // These will bounce around
     },
 
     // Color scheme for the website
